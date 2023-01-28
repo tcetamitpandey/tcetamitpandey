@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/www.linkedin.com/in/amit-pandey-tcet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.linkedin.com/in/amit-pandey-tcet" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amit-pandey-tcet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.linkedin.com/in/amit-pandey-tcet" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/tcetamit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/tcetamit/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ap76660rb4w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ap76660rb4w" height="30" width="40" /></a>
 </p>
