@@ -2,9 +2,9 @@
 <h3 align="center">A passionate C++ developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **Full Stack Development**
 
-- 💬 Ask me about **C++**
+- 💬 Ask me about **C++, Javascript, React**
 
 - 📫 How to reach me **ap7666088748@gmail.com**
 
